@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">SCOS</string>
+    <string name="hello">Hello World, MainTabActivity!</string>
+    <string name="main_order">点菜</string>
+    <string name="main_menu">查看菜单</string>
+    <string name="main_register">登录/注册</string>
+    <string name="main_help">帮助</string>
+
 </resources>
